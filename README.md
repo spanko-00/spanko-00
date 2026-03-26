@@ -1,17 +1,5 @@
 ## Hey 👋 What's up?
 
-<div align="center">
-  <img src="default.gif" width="600"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=spanko-00.spanko-00&left_color=black&right_color=blue" />
-</div>
-
-###
-
 ### 🧠 About Me
 
 - 🧩 Interested in reverse engineering and game hacking 
